@@ -9,7 +9,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<b> Work In Progress</b>
+<b> Work In Process</b>
 
 ### Built With
 
