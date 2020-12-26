@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/saraheunjikim/Youtube-Downloader">
-    <img src="YT.JPG" alt="Logo" width="300">
+    <img src="YT.JPG" alt="Logo" width="400">
   </a>
   <h1 align="center">YouTube Downloader</h1>
   <p align="center">
